@@ -1,0 +1,5 @@
+face_recognition
+Pillow==7.2.0
+tk
+opencv-python
+imutils
